@@ -1,0 +1,50 @@
+body {
+    min-height: 400px;
+   margin-bottom: 100px;
+   color: black;
+   visibility: visible;
+}
+
+td {
+    text-align: center;
+    padding: 40px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+    margin-right: 33%;
+}
+
+table {
+    color: black;
+}
+
+li {
+    display: inline-block;
+    padding: 5px 35px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+button {
+    width: 100px;
+}
+
+#score {
+    display: hidden;
+}
+
+span img {
+  width: relative;
+  height: 380px;
+}
+
+button {
+    position: static;
+    top: 20px;
+    left: 20px;
+}
